@@ -1,5 +1,7 @@
-F1-scores per fold: [0.94011976 0.94402421 0.96263079 0.92780338 0.94688923]
-Mean F1-score: 0.9443
+- F1-scores per fold:
+  [0.94011976 0.94402421 0.96263079 0.92780338 0.94688923]
+- Mean F1-score:
+  0.9443
 
 === Evaluation on Validation Set ===
               precision    recall  f1-score   support
